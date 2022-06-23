@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pte-question-bank/static/css/main.6e55cbea.css",
-    "main.js": "/pte-question-bank/static/js/main.aee1d135.js",
+    "main.js": "/pte-question-bank/static/js/main.c637f732.js",
     "static/js/787.7bc323e5.chunk.js": "/pte-question-bank/static/js/787.7bc323e5.chunk.js",
     "index.html": "/pte-question-bank/index.html",
     "main.6e55cbea.css.map": "/pte-question-bank/static/css/main.6e55cbea.css.map",
-    "main.aee1d135.js.map": "/pte-question-bank/static/js/main.aee1d135.js.map",
+    "main.c637f732.js.map": "/pte-question-bank/static/js/main.c637f732.js.map",
     "787.7bc323e5.chunk.js.map": "/pte-question-bank/static/js/787.7bc323e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e55cbea.css",
-    "static/js/main.aee1d135.js"
+    "static/js/main.c637f732.js"
   ]
 }
