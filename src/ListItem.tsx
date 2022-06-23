@@ -20,6 +20,7 @@ function handleAudioEnded(key: any) {
 	setTimeout(() => {
 		let elementById: any = document.getElementById(id);
 		if (elementById) {
+			elementById.scrollIntoView();
 			elementById.play();
 		}
 	}, 3000);
